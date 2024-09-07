@@ -1,0 +1,10 @@
+C:\Users\Toan\source\repos\BMI Calculator\bin\Release\BMI Calculator.exe.config
+C:\Users\Toan\source\repos\BMI Calculator\bin\Release\BMI Calculator.exe
+C:\Users\Toan\source\repos\BMI Calculator\bin\Release\BMI Calculator.pdb
+C:\Users\Toan\source\repos\BMI Calculator\obj\Release\BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\Toan\source\repos\BMI Calculator\obj\Release\BMI_Calculator.Form1.resources
+C:\Users\Toan\source\repos\BMI Calculator\obj\Release\BMI_Calculator.Properties.Resources.resources
+C:\Users\Toan\source\repos\BMI Calculator\obj\Release\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Toan\source\repos\BMI Calculator\obj\Release\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\BMI Calculator\obj\Release\BMI Calculator.exe
+C:\Users\Toan\source\repos\BMI Calculator\obj\Release\BMI Calculator.pdb
